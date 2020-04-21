@@ -1,2 +1,1 @@
-# CursoGit
-Repositorio curso git openWebinars
+#primera prueba
